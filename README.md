@@ -13,7 +13,7 @@ This project is a machine learning-based system designed to detect fake news fro
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/Nirvighna04/fake-news-detection.git
    cd fake-news-detection
    ```
 2. Install dependencies:
@@ -48,9 +48,6 @@ The model is trained on a publicly available fake news dataset, preprocessed usi
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
 Developed by Nirvighna Datar.
